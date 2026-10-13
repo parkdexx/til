@@ -1,7 +1,15 @@
 
 # english
 
+<br>
 
+### 2026-10-14 수
+
+```
+Sounds great but I just want to chill and relax.
+```
+
+- 아주 좋지만 그냥 편하게 쉬고 싶어요.
 
 <br>
 
