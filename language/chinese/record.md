@@ -7,7 +7,8 @@
 
 ```
 唉！别提了。是个老毛病，已经有很多年了。
-Āi! Bié tí le. Shì ge lǎomáobing, yǐjing yǒu hěn duō nián le.
+Āi! Bié tí le. Shì ge lǎo máobing, yǐ jing yǒu hěn duō nián le.
+아휴! 비에 티에 라. 슈거 라오 마오 비엥, 이징 여우 헌 두오니엔 라.
 ```
 
 - 아휴, 말도 마세요. 오래된 병이에요. 벌써 여러 해 됐어요.
