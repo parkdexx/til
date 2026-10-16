@@ -3,6 +3,16 @@
 
 <br>
 
+### 2026-10-16 금
+
+```
+You have to take good care of your teeth.
+```
+
+- 이를 잘 관리 해야해.
+
+<br>
+
 ### 2026-10-15 목
 
 ```
