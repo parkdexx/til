@@ -1,6 +1,16 @@
 
 # english
 
+
+
+### 2026-10-19 월
+
+```
+I think I'm running a temperature.
+```
+
+- 열이 나는 것 같아요.
+
 <br>
 
 ### 2026-10-17 토
