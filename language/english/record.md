@@ -2,6 +2,15 @@
 # english
 
 
+### 2026-10-20 화
+
+```
+We seem to have a bad connection on this phone.
+```
+
+- 이 전화는 연결 상태가 좋지 않은 것 같아요.
+
+<br>
 
 ### 2026-10-19 월
 
