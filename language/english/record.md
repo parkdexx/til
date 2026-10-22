@@ -2,6 +2,21 @@
 # english
 
 
+
+
+<br>
+
+### 2026-10-22 목
+
+```
+I don't want to give the bug to anyone in the office.
+```
+
+- 사무실의 누구에게도 감기를 옮기고 싶지 않아요.
+
+<br>
+
+
 ### 2026-10-20 화
 
 ```
