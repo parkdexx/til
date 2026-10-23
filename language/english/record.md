@@ -2,7 +2,15 @@
 # english
 
 
+<br>
 
+### 2026-10-23 금
+
+```
+Are you going to apply for it?
+```
+
+- 그것에 지원할거야?
 
 <br>
 
