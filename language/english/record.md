@@ -1,6 +1,15 @@
 
 # english
 
+<br>
+
+### 2026-10-26 월
+
+```
+What are my choices?
+```
+
+- 나에게 선택권은 뭐가 있어?
 
 <br>
 
