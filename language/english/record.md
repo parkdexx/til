@@ -1,6 +1,23 @@
 
 # english
 
+
+
+
+
+
+
+
+<br>
+
+### 2026-10-30 금
+
+```
+Your passport and disembarkation card, please
+```
+
+- 여권과 입국 신고서 주세요.
+
 <br>
 
 ### 2026-10-29 목
