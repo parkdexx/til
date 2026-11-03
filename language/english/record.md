@@ -7,8 +7,15 @@
 
 
 
+<br>
 
+### 2026-11-03 화
 
+```
+How did your presentation go yesterday?
+```
+
+- 어제 발표 어땠어?
 
 <br>
 
