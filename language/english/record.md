@@ -5,11 +5,19 @@
 
 
 
+<br>
 
+## 2026-11-04 수
+
+```
+When will her wedding be held?
+```
+
+- 그녀의 결혼식은 언제 열릴 예정이야?
 
 <br>
 
-### 2026-11-03 화
+## 2026-11-03 화
 
 ```
 How did your presentation go yesterday?
@@ -19,7 +27,7 @@ How did your presentation go yesterday?
 
 <br>
 
-### 2026-11-02 월
+## 2026-11-02 월
 
 ```
 Don't 하체 yourself.
@@ -29,7 +37,7 @@ Don't 하체 yourself.
 
 <br>
 
-### 2026-10-30 금
+## 2026-10-30 금
 
 ```
 Your passport and disembarkation card, please
@@ -39,7 +47,7 @@ Your passport and disembarkation card, please
 
 <br>
 
-### 2026-10-29 목
+## 2026-10-29 목
 
 ```
 A long-lost friend?
@@ -49,7 +57,7 @@ A long-lost friend?
 
 <br>
 
-### 2026-10-28 수
+## 2026-10-28 수
 
 ```
 I split some sauce on your shirt.
@@ -59,7 +67,7 @@ I split some sauce on your shirt.
 
 <br>
 
-### 2026-10-26 월
+## 2026-10-26 월
 
 ```
 What are my choices?
@@ -69,7 +77,7 @@ What are my choices?
 
 <br>
 
-### 2026-10-23 금
+## 2026-10-23 금
 
 ```
 Are you going to apply for it?
@@ -79,7 +87,7 @@ Are you going to apply for it?
 
 <br>
 
-### 2026-10-22 목
+## 2026-10-22 목
 
 ```
 I don't want to give the bug to anyone in the office.
@@ -90,7 +98,7 @@ I don't want to give the bug to anyone in the office.
 <br>
 
 
-### 2026-10-20 화
+## 2026-10-20 화
 
 ```
 We seem to have a bad connection on this phone.
@@ -100,7 +108,7 @@ We seem to have a bad connection on this phone.
 
 <br>
 
-### 2026-10-19 월
+## 2026-10-19 월
 
 ```
 I think I'm running a temperature.
@@ -110,7 +118,7 @@ I think I'm running a temperature.
 
 <br>
 
-### 2026-10-17 토
+## 2026-10-17 토
 
 ```
 I'm sure she will understand.
@@ -120,7 +128,7 @@ I'm sure she will understand.
 
 <br>
 
-### 2026-10-16 금
+## 2026-10-16 금
 
 ```
 You have to take good care of your teeth.
@@ -130,7 +138,7 @@ You have to take good care of your teeth.
 
 <br>
 
-### 2026-10-15 목
+## 2026-10-15 목
 
 ```
 Can you come over on Sunday?
@@ -140,7 +148,7 @@ Can you come over on Sunday?
 
 <br>
 
-### 2026-10-14 수
+## 2026-10-14 수
 
 ```
 Sounds great but I just want to chill and relax.
@@ -150,7 +158,7 @@ Sounds great but I just want to chill and relax.
 
 <br>
 
-### 2026-10-13 화
+## 2026-10-13 화
 
 ```
 I'd like to know if you have any job openings right now.
