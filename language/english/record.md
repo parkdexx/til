@@ -3,7 +3,15 @@
 
 
 
+<br>
 
+## 2026-11-05 목
+
+```
+Especially I love this special sauce.
+```
+
+- 특히 이 특제 소스가 좋아.
 
 <br>
 
