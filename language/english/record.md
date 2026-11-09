@@ -4,6 +4,17 @@
 
 
 
+
+<br>
+
+## 2026-11-10 화
+
+```
+Is there anything I should keep in mind?
+```
+
+- 내가 명심해야 할 것이 있나요?
+
 <br>
 
 ## 2026-11-07 토
