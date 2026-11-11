@@ -5,7 +5,15 @@
 
 
 
+<br>
 
+## 2026-11-12 목
+
+```
+Can you tell me what you are wearing today?
+```
+
+- 오늘 어떤 옷을 입었는지 말해줄 수 있어?
 
 <br>
 
