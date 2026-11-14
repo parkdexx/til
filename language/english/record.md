@@ -3,7 +3,15 @@
 
 
 
+<br>
 
+## 2026-11-15 일
+
+```
+I will join you if the price is reasonable.
+```
+
+- 가격이 괜찮으면 같이 배워볼게.
 
 <br>
 
