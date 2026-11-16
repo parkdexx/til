@@ -2,7 +2,15 @@
 # english
 
 
+<br>
 
+## 2026-11-17 화
+
+```
+Can I make that a half-and-half pizza?
+```
+
+- 반반 피자로 주문 할 수 있나요?
 
 <br>
 
