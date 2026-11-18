@@ -1,6 +1,15 @@
 
 # english
 
+<br>
+
+## 2026-11-19 목
+
+```
+I haven't been able to sleep for three days.
+```
+
+- 3일 동안 잠을 못잤어요.
 
 <br>
 
