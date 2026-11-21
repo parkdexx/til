@@ -1,7 +1,15 @@
 
 # english
 
+<br>
 
+## 2026-11-21 토
+
+```
+I think the laptop computer is infected with spyware.
+```
+
+- 내 노트북 컴퓨터가 스파이웨어에 감염된 것 같아요.
 
 <br>
 
