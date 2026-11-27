@@ -3,6 +3,16 @@
 
 <br>
 
+## 2026-11-27 금
+
+```
+Do you happen to know where the movie theater is?
+```
+
+- 혹시 영화관이 어디인지 아시나요?
+
+<br>
+
 ## 2026-11-26 목
 
 ```
